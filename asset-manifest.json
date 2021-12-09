@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/liberate/static/css/main.2c9939df.chunk.css",
+    "main.js": "/liberate/static/js/main.8acc00f7.chunk.js",
+    "main.js.map": "/liberate/static/js/main.8acc00f7.chunk.js.map",
+    "runtime-main.js": "/liberate/static/js/runtime-main.9676e75c.js",
+    "runtime-main.js.map": "/liberate/static/js/runtime-main.9676e75c.js.map",
+    "static/css/2.bd932d36.chunk.css": "/liberate/static/css/2.bd932d36.chunk.css",
+    "static/js/2.81e581f6.chunk.js": "/liberate/static/js/2.81e581f6.chunk.js",
+    "static/js/2.81e581f6.chunk.js.map": "/liberate/static/js/2.81e581f6.chunk.js.map",
+    "static/js/3.ca6a54b3.chunk.js": "/liberate/static/js/3.ca6a54b3.chunk.js",
+    "static/js/3.ca6a54b3.chunk.js.map": "/liberate/static/js/3.ca6a54b3.chunk.js.map",
+    "index.html": "/liberate/index.html",
+    "static/css/2.bd932d36.chunk.css.map": "/liberate/static/css/2.bd932d36.chunk.css.map",
+    "static/css/main.2c9939df.chunk.css.map": "/liberate/static/css/main.2c9939df.chunk.css.map",
+    "static/js/2.81e581f6.chunk.js.LICENSE.txt": "/liberate/static/js/2.81e581f6.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/liberate/static/media/video-bg.4dac6bac.jpg",
+    "static/media/contact-banner.e6b5102b.jpg": "/liberate/static/media/contact-banner.e6b5102b.jpg",
+    "static/media/gym-bodybuilding.bd65dc9e.png": "/liberate/static/media/gym-bodybuilding.bd65dc9e.png",
+    "static/media/meditation1.ad2af7e5.png": "/liberate/static/media/meditation1.ad2af7e5.png",
+    "static/media/meditation2.594194bb.png": "/liberate/static/media/meditation2.594194bb.png",
+    "static/media/meditation3.67e5f0b9.png": "/liberate/static/media/meditation3.67e5f0b9.png",
+    "static/media/meditation4.39f49fe0.png": "/liberate/static/media/meditation4.39f49fe0.png",
+    "static/media/meditation5.f01eb422.png": "/liberate/static/media/meditation5.f01eb422.png",
+    "static/media/recommended1.308f40bb.png": "/liberate/static/media/recommended1.308f40bb.png",
+    "static/media/recommended2.6da39737.png": "/liberate/static/media/recommended2.6da39737.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9676e75c.js",
+    "static/css/2.bd932d36.chunk.css",
+    "static/js/2.81e581f6.chunk.js",
+    "static/css/main.2c9939df.chunk.css",
+    "static/js/main.8acc00f7.chunk.js"
+  ]
+}
